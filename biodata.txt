@@ -2,3 +2,6 @@ Nama : Adnan Januar Yunaz
 NPM  : 140810160030
 TTL  : Jakarta, 04 Januari 1999
 JK   : Laki-laki
+Hobi : Tidur
+Job  : Mahasiswa
+Fkl  : TI
