@@ -5,3 +5,8 @@ JK   : Laki-laki
 Hobi : Tidur
 Job  : Mahasiswa
 Fkl  : TI
+
+
+Nama : Muhammad Faizin Ahsan
+NPM  : 140810160032
+
